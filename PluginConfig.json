@@ -1,0 +1,19 @@
+﻿{
+  "assembly": [
+    "SetFocusCommand.dll"
+  ],
+  "javascript": [
+    "Resources\\SetFocusCommand.js"
+  ],
+  "css": [],
+  "image": "Resources\\Image.png",
+  "description": "Allow set focus to a cell when execute the command",
+  "name": "SetFocusCommand",
+  "description_ja": "指定したセルにフォーカスを設定するコマンドです。",
+  "name_ja": "フォーカス設定コマンド",
+  "description_cn": "执行该命令可以让目标单元格获得焦点。",
+  "name_cn": "设置焦点命令",
+  "pluginType": "command",
+  "guid": "328aa5a0-ddbb-4390-92db-9a3e7c7d42e3",
+  "version": "1.0.0.0"
+}
