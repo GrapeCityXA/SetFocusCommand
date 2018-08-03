@@ -1,4 +1,8 @@
-# SetFocusCommand
+#### 插件打包下载
+* 活字格设置焦点命令插件下载：[https://gcdn.grapecity.com.cn/forum.php?mod=viewthread&tid=48671](https://gcdn.grapecity.com.cn/forum.php?mod=viewthread&tid=48671)
+* 活字格官网：[https://www.grapecity.com.cn/solutions/huozige](https://www.grapecity.com.cn/solutions/huozige)
+ 
+## SetFocusCommand
 设置焦点命令可以让目标单元格获得焦点。
 
 ### 使用步骤
